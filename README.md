@@ -37,7 +37,7 @@
 
 ## EXPERIENCE
 
-### VAKT GLOBAL Limited - Front-End Developer (Intern)
+### VAKT GLOBAL Limited - Software Developer (Intern)
 *Remote | 01/2023 – 10/2023*
 - **Tech Stack:** ReactJS, web3, AWS, Typescript, Docker, Java, Fluent-UI, MongoDB, Adobe XD, Postman, etc.
 - Created the Terminal Demo, streamlining the actualization process for nominated products.
